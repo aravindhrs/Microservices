@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 hello
-=======
 welcome
 github
->>>>>>> 5302529328b6225b4b4110ffdbec21fa464e52b6
+end
